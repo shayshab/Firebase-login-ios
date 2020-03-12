@@ -1,0 +1,6 @@
+framework module Pods_FirebaseLoginExample {
+  umbrella header "Pods-FirebaseLoginExample-umbrella.h"
+
+  export *
+  module * { export * }
+}
